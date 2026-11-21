@@ -2,6 +2,17 @@
 
 ![DeTAiL overview](imgs/DeTAiL.png)
 
+We propose *Dementia Thinker with Nonlinear Adaptor and Reinforcement Learning (DeTAiL)*, an adaptor-based framework that exploits the internal representations of reasoning MLLMs for improved dementia classification. If you find this repo to be useful, please consider citing our [paper](https://arxiv.org/pdf/2607.00260)
+~~~~~~~~
+@inproceedings{wang2026detail,
+  author    = {Liming Wang and Neguine Rezaii and Bradford C. Dickerson and James Glass},
+  title     = {Do Multimodal Large Language Models Need Reasoning to Classify Dementia from Speech?},
+  booktitle = {SLT 2026},
+  year      = {2026},
+}
+~~~~~~~~
+
+
 ## Running Qwen MLP Experiments
 
 The Qwen MLP adaptor experiments are launched with the SLURM scripts in
